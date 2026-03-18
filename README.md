@@ -1,5 +1,5 @@
 # ConsolePrint
-Short description and motivation.
+This is a sample of plugin where i have tried to make a pluggin which can be further we can integrate to any rails app.
 
 ## Usage
 How to use my plugin.
